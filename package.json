@@ -1,0 +1,23 @@
+{
+  "name": "paginated",
+  "version": "1.0.0",
+  "description": "Split an array into smaller, evenly-sized arrays. Nothing fancy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:harrim91/paginated.git"
+  },
+  "keywords": [
+    "paginate",
+    "pagination",
+    "array"
+  ],
+  "author": "Michael Harrison",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
