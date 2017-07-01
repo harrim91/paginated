@@ -1,6 +1,6 @@
 {
   "name": "paginated",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Split an array into smaller, evenly-sized arrays. Nothing fancy.",
   "main": "index.js",
   "scripts": {
